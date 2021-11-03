@@ -1,0 +1,8 @@
+{
+  "name": "Did I Drink It?",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e650917f"
+}

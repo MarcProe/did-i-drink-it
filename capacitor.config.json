@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Did I Drink It?",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
